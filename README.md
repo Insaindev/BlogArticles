@@ -14,4 +14,4 @@ Chi-Square – Identifikácia najdôležitejších pojmov - http://insaindev.com
 
 Sentimentálna analýza – klasifikácia recenzií reštaurácie - http://insaindev.com/2021/02/13/sentimentalna-analyza-klasifikacia-recenzii-restauracie/
 
-NLP – Metrika podobnosti - http://insaindev.com/2021/02/21/nlp-metrika-podobnosti/
+NLP – Metrika podobnosti (cosine similarity) - http://insaindev.com/2021/02/21/nlp-metrika-podobnosti/
