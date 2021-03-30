@@ -16,4 +16,4 @@ Sentimentálna analýza – klasifikácia recenzií reštaurácie - http://insai
 
 NLP – Metrika podobnosti (cosine similarity) - yelp recenzie - http://insaindev.com/2021/02/21/nlp-metrika-podobnosti/
 
-NLP - metrika podobnosti (LDA) - yelp recenzie
+NLP - metrika podobnosti (LDA) - yelp recenzie - http://insaindev.com/2021/03/25/nlp-metrika-podobnosti-lda-yelp-recenzie/
